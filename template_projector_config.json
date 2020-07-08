@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Tusayan_Whiteware",
+      "tensorShape": [
+        400,
+        512
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/TWW_VGG_19.tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/TWW_VGG_19_meta.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/TWW_VGG_19.png",
+        "singleImageDim": [
+          224,
+          224
+        ]
+      }
+    }
+  ]
+}
