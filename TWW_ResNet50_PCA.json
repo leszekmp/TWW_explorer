@@ -4,7 +4,7 @@
       "tensorName": "Tusayan WW visualization",
       "tensorShape": [
         496,
-        512
+        200
       ],
       "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_first_fc_PCA.pca.tsv",
       "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_first_fc.meta.tsv",
