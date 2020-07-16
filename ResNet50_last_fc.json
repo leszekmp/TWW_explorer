@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "ResNet50 first connected layer",
+      "tensorName": "ResNet50 last connected layer",
       "tensorShape": [
         496,
         512
       ],
-      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_first_fc.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_first_fc.meta.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_last_fc.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_last_fc.meta.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_sprites.jpg",
         "singleImageDim": [
