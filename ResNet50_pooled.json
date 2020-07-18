@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ResNet50 pooled layer",
+      "tensorShape": [
+        496,
+        2048
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_pooled.meta.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_last_fc.meta.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_sprites.jpg",
+        "singleImageDim": [
+          224,
+          224
+        ]
+      }
+    }
+  ]
+}
