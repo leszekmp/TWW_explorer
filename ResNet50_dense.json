@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ResNet50_dense",
+      "tensorShape": [
+        488,
+        512
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_dense.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_dense_1.meta.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/.../optional.sprite.png",
+        "singleImageDim": [
+          224,
+          224
+        ]
+      }
+    }
+  ]
+}
