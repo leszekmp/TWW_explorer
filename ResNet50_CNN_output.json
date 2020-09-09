@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ResNet50_CNN_output",
+      "tensorShape": [
+        488,
+        2048
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_CNN_output.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/ResNet50_dense_1.meta.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/leszekmp/TWW_explorer/master/TWW_sprites.jpg",
+        "singleImageDim": [
+          224,
+          224
+        ]
+      }
+    }
+  ]
+}
